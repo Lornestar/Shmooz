@@ -1,0 +1,23 @@
+﻿body {
+}
+
+
+.woman
+{
+    width:100px;
+    height:100px;
+    background-color:Aqua;
+    color:White;
+}
+.man
+{
+    width:100px;
+    height:100px;
+    background-color:Blue;
+    color:White;
+}
+
+.maindivs
+{
+    width:600px;    
+}
