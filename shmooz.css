@@ -1,6 +1,11 @@
-﻿body {
+﻿
+body {
+  margin:0 1em;
 }
 
+.header{
+  background:#929292;
+}
 
 .woman
 {
